@@ -9,11 +9,13 @@
   <img src="https://komarev.com/ghpvc/?username=phur4life&label=Profile%20views&color=0e75b6&style=flat" alt="phur4life" />
 </p>
 
+- 🔭 I’m currently working on **Government Technology Agency As AICT Officer, API Developer**
+  
 - 🔭 I’m currently working on **Development Related Projects**
 
-- 🌱 I’m currently learning **Web & App Technologies, AI/ML and Blockchain**
+- 🌱 I’m passionate of **Web & App Technologies, AI/ML and Blockchain, IoTs, APIs**
 
-- 💬 Ask me about **App & Web Technologies**
+- 💬 Ask me about **App & Web Technologies, AI/ML and Blockchain, IoTs, APIs**
 
 - 📫 How to reach me **phurba1191@gmail.com**
 
