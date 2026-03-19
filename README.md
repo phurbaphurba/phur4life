@@ -8,6 +8,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=phur4life&label=Profile%20views&color=0e75b6&style=flat" alt="phur4life" />
 </p>
+- 🔭 I’m currently working as **ICT officer (API Developer) in Government Technology Agency**
 
 - 🔭 I’m currently working on **Development Related Projects**
 
